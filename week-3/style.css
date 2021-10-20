@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #222;
+    color: white;
+}
+
+.green{
+    background: #0f0;
+}
+
+h2{
+    text-color: #dfd;
+}
